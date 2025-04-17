@@ -1,0 +1,11 @@
+Users:
+
+admin
+customerAnna
+customerJoe
+deliveryPeter
+deliveryRobert
+managerJohn
+managerZoe
+
+Password(s): Littlelemon123
